@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "600118591331",
+    "firebase_url": "https://carnival-c4226.firebaseio.com",
+    "project_id": "carnival-c4226",
+    "storage_bucket": "carnival-c4226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600118591331:android:d88bf86a6db34ef069dd56",
+        "android_client_info": {
+          "package_name": "com.example.carnival_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600118591331-5g2s4nbl24erkmddtok4kcm59rhhkh4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carnival_app",
+            "certificate_hash": "e9e0900d9c2c28109b9fe1a66aeabbe468b39b92"
+          }
+        },
+        {
+          "client_id": "600118591331-o0qti2cfs6a7tkbd3khq525356qn0583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKmMmgHKYr9W4Vj9BZSi9l_xmMdWabcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600118591331-o0qti2cfs6a7tkbd3khq525356qn0583.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600118591331:android:ee31bb9efbbcaf4169dd56",
+        "android_client_info": {
+          "package_name": "com.project.cake_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600118591331-o0qti2cfs6a7tkbd3khq525356qn0583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKmMmgHKYr9W4Vj9BZSi9l_xmMdWabcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600118591331-o0qti2cfs6a7tkbd3khq525356qn0583.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
